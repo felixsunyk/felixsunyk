@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @felixsunyk
-- 👀 I’m interested in frontend
+- 👋 Hi, I’m FELIX K a frontend developer/ mentor 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on github 
 - 📫 How to reach me  +234-8147008005
