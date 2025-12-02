@@ -1,25 +1,7 @@
 
-Hi, I'm FELIX K a frontend developer/ mentor 
-I'm a passionate frontend web developer who loves creating beautiful and interactive user experiences on the web. Welcome to my GitHub repository, where I showcase my projects and contributions to the world of web development.
+Hi, I'm FELIX K — Frontend Developer, Mindset Mentor & Founder
 
-About Me
-🌟 Frontend Developer with a strong focus on HTML, CSS, JavaScript and React.
-💡 I believe in the power of clean code, responsive design, and user-friendly interfaces.
+I'm a passionate frontend web developer dedicated to creating beautiful, interactive, and meaningful user experiences on the web.
+Beyond tech, I also mentor young people on mindset, personal growth, and confidence, helping them become the best version of themselves.
 
-My Skills
-HTML5
-CSS3 / Sass
-JavaScript / ES6+
-React.js
-Responsive Web Design
-UI/UX Design
-Git / GitHub
-Let's connect and collaborate on exciting projects together! 😄
-
-How to reach me  +234-8147008005
-
-
-<!---
-felixsunyk/felixsunyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As the Founder of an impact-driven organization, I am committed to empowering the next generation with the skills, mindset, and opportunities they need to thrive.
